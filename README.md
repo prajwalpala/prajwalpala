@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+(like http://example.com/)
 <html>
 <body>
 
